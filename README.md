@@ -1,2 +1,2 @@
-# programa-o-do-JP
+# programa-do-JP
 repositório de exemplos das aulas da disciplina: programação de computadores
