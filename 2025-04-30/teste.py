@@ -1,0 +1,1 @@
+# obtem o caractere para o codigo
