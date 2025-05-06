@@ -1,3 +1,5 @@
-velocidade = int(input())
-aceleração = int(input())
-tempo = int(input())
+velocidade = int(input(''))
+aceleração = int(input(''))
+tempo = int(input(''))
+
+distancia = int()
