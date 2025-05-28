@@ -11,3 +11,5 @@ c) a media dos numeros inteiros positivos;
 o valor 0 digitado nao deve ser considerado em nenhum dos itens acima.
 '''
 
+invalor          = None
+intsomapositivos = 0
