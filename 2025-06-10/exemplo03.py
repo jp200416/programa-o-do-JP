@@ -1,0 +1,1 @@
+strText = input('diigte um texto: ')

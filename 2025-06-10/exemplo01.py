@@ -1,0 +1,1 @@
+strTexto = input
