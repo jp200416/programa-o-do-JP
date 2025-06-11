@@ -40,9 +40,11 @@ intqtocorrencias = strTexto.lower().count(strPalavra)
 print(f'A palavra {strPalavra} aparece {intqtocorrencias} vezes no texto. ')
 
 intposicao = 0
-while intposicao == -1:
-    intposicao == strTexto.lower().find(strPalavra, intposicao)
+while True:
+    intposicao = strTexto.lower().find(strPalavra, intposicao)
+
+    if intposicao == -1: break
 
     print(intposicao)
 
-    intposicao += 1
+    intposicao += len(strPalavra)
